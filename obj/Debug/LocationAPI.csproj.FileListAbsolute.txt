@@ -296,3 +296,5 @@ M:\Location\LocationAPI\LocationAPI\bin\Microsoft.Extensions.ObjectPool.xml
 M:\Location\LocationAPI\LocationAPI\bin\Microsoft.Extensions.WebEncoders.xml
 M:\Location\LocationAPI\LocationAPI\bin\Microsoft.Net.Http.Headers.xml
 M:\Location\LocationAPI\LocationAPI\bin\System.Text.Encodings.Web.xml
+C:\Users\313377202\Desktop\Location-Server\obj\Debug\LocationAPI.dll
+C:\Users\313377202\Desktop\Location-Server\obj\Debug\LocationAPI.pdb
